@@ -25,3 +25,9 @@ Visualization with Power BI
 After the SQL-based analysis, the next step is to visualize the results using Power BI. This will involve creating data models with proper relationships, including a calendar table to handle time-based analyses effectively. In Power BI, I will use essential DAX queries such as TOTALYTD and FILTER to create measures and enhance the analytical capabilities of the visualizations. By integrating these visual tools, the project will provide a comprehensive view of the data, making it easier to interpret and derive actionable insights.
 
 By the end of this project, I expect to have a robust understanding of advanced SQL techniques and their applications in data analysis, as well as practical experience in visualizing data using Power BI. This will equip me with the skills needed to tackle real-world data challenges effectively.
+
+Here Is the live power BI access:
+https://app.powerbi.com/view?r=eyJrIjoiODEwNTkwZTMtYmI2Ni00OTdkLTk5NTktNWVhZmMzYzA1NTk4IiwidCI6IjViNDYyNjIyLWI0ZDktNDk5OC05NGQ1LWNiMWJjMTljN2Y5NiJ9
+
+<img width="598" alt="toys" src="https://github.com/baabhishek/Sales-Analytics-Project/assets/165395155/626c1738-9c40-491e-bd8d-05bce2288ccf">
+
