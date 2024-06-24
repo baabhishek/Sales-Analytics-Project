@@ -1,21 +1,24 @@
-# Sales-Analytics-Project
-Sales Analytics Using Advanced SQL Data Analysis and Visualization Project For Toy Sales
+# Sales-Analytics-Project:
 
-Project Overview
+**Sales Analytics Using Advanced SQL Data Analysis and Visualization Project For Toy Sales.**
+![720c7457a6af70a649613d4b7b549994](https://github.com/baabhishek/Sales-Analytics-Project/assets/165395155/24560cfd-7d17-437a-b930-5bc3e398b025)
+
+
+**Project Overview**
 
 This project is designed to provide an in-depth experience with SQL, covering a variety of advanced functions and techniques essential for data analysis. The goal is to develop proficiency in using sub-queries, Common Table Expressions (CTEs), and a range of SQL functions such as CAST, ROW_NUMBER, PARTITION BY, REPLACE, DATENAME, and DATEDIFF. Additionally, it incorporates fundamental SQL functions like COUNT, SUM, WHERE, GROUP BY, ORDER BY, ROUND, and AVG. A significant component of this project involves executing data validation tasks within the SQL framework, ensuring the data's accuracy and reliability. Through this project, I aim to gain practical experience in data analysis techniques, which are crucial for addressing real-world challenges.
 
-Project Phases
+**Project Phases**
 
 To systematically approach this project, I have divided it into two main phases:
 
-A. Data Cleaning and Preparation:
+**A.** Data Cleaning and Preparation:
 
 In this phase, the focus will be on ensuring that the data is clean and ready for analysis. This involves removing any inconsistencies, handling missing values, and transforming the data into a usable format.
 Using SQL, I will implement various functions to cleanse and prepare the data. For instance, REPLACE will be used to manage and standardize string data, while CAST will ensure data types are appropriately converted.
 CTEs and sub-queries will play a crucial role in breaking down complex data preparation tasks into manageable steps, enhancing the overall efficiency and readability of the SQL scripts.
 
-B. Data Analysis and Interpretation:
+**B.** Data Analysis and Interpretation:
 
 Once the data is prepared, the next phase involves performing detailed data analysis. SQL functions such as ROW_NUMBER and PARTITION BY will be used to rank and partition data for deeper insights.
 Aggregation functions like SUM, COUNT, AVG, and ROUND will help in summarizing the data to identify key patterns and trends.
